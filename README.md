@@ -18,8 +18,10 @@ Conda Environment used: PythonData
 
 # Detailed Instructions
 
-  - Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+   Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+  
+  Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+
 Your final report should include each of the following:
 
   - Player Count
@@ -78,3 +80,18 @@ Your final report should include each of the following:
     - You must submit a link to your Jupyter Notebook with the viewable Data Frames.
     - You must include a written description of three observable trends based on the data.
     - See Example Solution for a reference on expected format.
+
+# Files
+  
+  The HeroesOfPymoli folder contains:
+  
+    - The jupyter notebook where my codes are for creating dataframes based on the csv file
+    - Written report of three observable trends from the data in docx format
+    - Written report of three observable trends from the data in txt format
+    - The Resources folder where the csv file is store
+
+# Process and Credits
+
+My first assignment using Python Pandas to clean up and created organized dataframes from a csv file (data). I used class materials and outside resources for references, asked Bootcamp's Learning Assistant App for help to complete this assignment.
+
+1.
