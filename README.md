@@ -97,7 +97,9 @@ Your final report should include each of the following:
 My first assignment using Python Pandas to clean up and created organized dataframes from a csv file (data). I used class materials and outside resources for references, asked Bootcamp's Learning Assistant App for help to complete this assignment.
 
 1.When I was working on the Gender Demographics section, I ran into the issue of not being able to merge the unique gender count with the other dataframes, so I asked the Learning Assistant App for help. The learning assistant suggested to me the function drop_duplicates(), which worked nicely and I didn't have to use merge.
+
 2.When I was working on the Top Spenders section, I ran into the issue of not being able to merge (again!) count pull from purchase_data's SN value_count() to the other dataframes. I tried different ways to debug the error I encountered, which was something like "you are trying to merge object and int." I tried resetting the index, but that didn't work, so I asked the Learning Assistant App for help. The learning assistant suggested to me to use "user_count = purchase_data.groupby( ["SN"].count()["Price"].rename("Purchase Count")," which allowed me to merge the user count with the other dataframes nicely.
+
 3.Here is the list of other outside resources I used to help me complete this assignments:
   - https://www.kite.com/python/answers/how-to-count-the-number-of-rows-in-a-pandas-dataframe-in-python
   - https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/
