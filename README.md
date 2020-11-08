@@ -12,7 +12,7 @@ options to choose from, and I chose Heroes of Pymoli.
 Python Pandas
 
 Jupyter Notebook
-  - (file:///Users/yyh/Downloads/HeroesOfPymoli_jupyter_notebook.html) for proper view of the dataframes, since GitHub's rendered blob doesn't display jupyter notebook's converted numerical formatting properly in the dataframes
+  - (file:///Users/yyh/Downloads/HeroesOfPymoli_jupyter_notebook%20(1).html) for proper view of the dataframes, since GitHub's rendered blob doesn't display jupyter notebook's converted numerical formatting properly in the dataframes
   - Note that I made most of the unnecessary called outputs comments, so when running the notebook, only the result dataframes are showing (except the first purchas_data is needed to be run for the other commands to work)
   - I also commented on some of my commands as notes for why they are needed
   
@@ -89,9 +89,8 @@ Your final report should include each of the following:
   
   The HeroesOfPymoli folder contains:
   
-    - The jupyter notebook where my codes are for creating dataframes based on the csv file
+    - The jupyter notebook where my codes are for creating dataframes based on the csv file (a written description is at the end of the notebook)
     - Written report of three observable trends from the data in docx format
-    - Written report of three observable trends from the data in txt format
     - The Resources folder where the csv file is store
 
 # Process and Credits
